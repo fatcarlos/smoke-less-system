@@ -1,0 +1,1973 @@
+{
+  "username": "smoker",
+  "password": "smokekills",
+  "admin_password": "smokekills",
+  "background": {
+    "type": "image",
+    "value": "MarlboroWorld.jpeg",
+    "mode": "Contain"
+  },
+  "dark_mode": false,
+  "totp": {
+    "enabled": false,
+    "secret": "H6FGOBHMLKGU3GLHEFVRC6IK4FSUXXF4"
+  },
+  "transparency": 100,
+  "language": "zh-Hant",
+  "ui_text": {
+    "食少支煙系統": {
+      "zh-Hant": "食少支煙系統",
+      "en": "Smoke Less System",
+      "th": "ระบบสูบบุหรี่น้อยลง",
+      "ja": "禁煙・減煙システム",
+      "ko": "담배 줄이기 시스템",
+      "ru": "Система «Курить меньше»",
+      "es": "Sistema Fumar Menos"
+    },
+    "主頁": {
+      "zh-Hant": "主頁",
+      "en": "Home",
+      "th": "หน้าหลัก",
+      "ja": "ホーム",
+      "ko": "홈",
+      "ru": "Главная",
+      "es": "Inicio"
+    },
+    "設定": {
+      "zh-Hant": "設定",
+      "en": "Settings",
+      "th": "การตั้งค่า",
+      "ja": "設定",
+      "ko": "설정",
+      "ru": "Настройки",
+      "es": "Configuración"
+    },
+    "煙款": {
+      "zh-Hant": "煙款",
+      "en": "Cigarettes",
+      "th": "บุหรี่",
+      "ja": "たばこ",
+      "ko": "담배",
+      "ru": "Сигареты",
+      "es": "Cigarrillos"
+    },
+    "訂煙者": {
+      "zh-Hant": "訂煙者",
+      "en": "Customer",
+      "th": "ลูกค้า",
+      "ja": "顧客",
+      "ko": "고객",
+      "ru": "Клиенты",
+      "es": "Clientes"
+    },
+    "賣煙者": {
+      "zh-Hant": "賣煙者",
+      "en": "Sellers",
+      "th": "ผู้ขาย",
+      "ja": "販売者",
+      "ko": "판매자",
+      "ru": "Продавцы",
+      "es": "Vendedores"
+    },
+    "訂煙記錄": {
+      "zh-Hant": "訂煙記錄",
+      "en": "Order Records",
+      "th": "ประวัติการสั่งซื้อ",
+      "ja": "注文履歴",
+      "ko": "주문 기록",
+      "ru": "История заказов",
+      "es": "Historial de pedidos"
+    },
+    "落單": {
+      "zh-Hant": "落單",
+      "en": "Place Order",
+      "th": "สั่งซื้อ",
+      "ja": "注文する",
+      "ko": "주문하기",
+      "ru": "Оформить заказ",
+      "es": "Hacer pedido"
+    },
+    "功能選單": {
+      "zh-Hant": "功能選單",
+      "en": "Menu",
+      "th": "เมนู",
+      "ja": "メニュー",
+      "ko": "메뉴",
+      "ru": "Меню",
+      "es": "Menú"
+    },
+    "登出": {
+      "zh-Hant": "登出",
+      "en": "Logout",
+      "th": "ออกจากระบบ",
+      "ja": "ログアウト",
+      "ko": "로그아웃",
+      "ru": "Выйти",
+      "es": "Cerrar sesión"
+    },
+    "切換夜間模式": {
+      "zh-Hant": "切換夜間模式",
+      "en": "Toggle dark mode",
+      "th": "สลับโหมดกลางคืน",
+      "ja": "ダークモード切替",
+      "ko": "다크 모드 전환",
+      "ru": "Переключить тёмный режим",
+      "es": "Cambiar modo oscuro"
+    },
+    "登入": {
+      "zh-Hant": "登入",
+      "en": "Login",
+      "th": "เข้าสู่ระบบ",
+      "ja": "ログイン",
+      "ko": "로그인",
+      "ru": "Войти",
+      "es": "Iniciar sesión"
+    },
+    "登入名稱": {
+      "zh-Hant": "登入名稱",
+      "en": "Username",
+      "th": "ชื่อผู้ใช้",
+      "ja": "ユーザー名",
+      "ko": "사용자 이름",
+      "ru": "Имя пользователя",
+      "es": "Nombre de usuario"
+    },
+    "密碼": {
+      "zh-Hant": "密碼",
+      "en": "Password",
+      "th": "รหัสผ่าน",
+      "ja": "パスワード",
+      "ko": "비밀번호",
+      "ru": "Пароль",
+      "es": "Contraseña"
+    },
+    "記住我（只限此裝置及此 Browser，永久至登出）": {
+      "zh-Hant": "記住我（只限此裝置及此 Browser，永久至登出）",
+      "en": "Remember me (this device and browser only, until logout)",
+      "th": "จดจำฉัน (เฉพาะอุปกรณ์และเบราว์เซอร์นี้ จนกว่าจะออกจากระบบ)",
+      "ja": "ログイン状態を記憶（この端末・ブラウザのみ、ログアウトまで）",
+      "ko": "기억하기(이 기기 및 브라우저에서만, 로그아웃할 때까지)",
+      "ru": "Запомнить меня (только это устройство и браузер, до выхода)",
+      "es": "Recordarme (solo este dispositivo y navegador, hasta cerrar sesión)"
+    },
+    "香港政府忠告市民吸煙危害健康": {
+      "zh-Hant": "香港政府忠告市民吸煙危害健康",
+      "en": "Hong Kong Government advises that smoking is hazardous to health",
+      "th": "รัฐบาลฮ่องกงเตือนประชาชนว่าการสูบบุหรี่เป็นอันตรายต่อสุขภาพ",
+      "ja": "香港政府は喫煙が健康に有害であると市民に注意喚起しています",
+      "ko": "홍콩 정부는 흡연이 건강에 해롭다고 시민에게 경고합니다",
+      "ru": "Правительство Гонконга предупреждает: курение опасно для здоровья",
+      "es": "El Gobierno de Hong Kong advierte que fumar es perjudicial para la salud"
+    },
+    "食少支煙啦屌你味道！": {
+      "zh-Hant": "食少支煙啦屌你味道！",
+      "en": "Smoke less, for fuck's sake!",
+      "th": "สูบบุหรี่ให้น้อยลงเถอะโว้ย!",
+      "ja": "タバコを少し減らそうぜ！",
+      "ko": "담배 좀 줄이세요!",
+      "ru": "Кури поменьше, чёрт возьми!",
+      "es": "¡Fuma menos, joder!"
+    },
+    "人到40要保養下，少煙酒呀🤣": {
+      "zh-Hant": "人到40要保養下，少煙酒呀🤣",
+      "en": "When you reach 40, take care of yourself — less smoking and drinking 🤣",
+      "th": "อายุ 40 แล้วดูแลตัวเองหน่อย ลดบุหรี่และเหล้านะ 🤣",
+      "ja": "40歳になったら体を大切に。タバコとお酒はほどほどに🤣",
+      "ko": "40살이면 몸 좀 챙기고 담배와 술을 줄이세요 🤣",
+      "ru": "После 40 береги здоровье, поменьше сигарет и алкоголя 🤣",
+      "es": "A los 40 cuídate, menos tabaco y alcohol 🤣"
+    },
+    "要量入為出，食10條買返16條🤣": {
+      "zh-Hant": "要量入為出，食10條買返16條🤣",
+      "en": "Live within your means — smoke 10 packs and buy 16 🤣",
+      "th": "ใช้เงินอย่างมีสติ สูบ 10 ซองแต่ซื้อกลับ 16 ซอง 🤣",
+      "ja": "収入に合わせて生活しよう。10箱吸って16箱買う🤣",
+      "ko": "수입에 맞게 살자. 10갑 피우고 16갑 사기 🤣",
+      "ru": "Живи по средствам: выкури 10 пачек, а купи 16 🤣",
+      "es": "Vive según tus posibilidades: fuma 10 paquetes y compra 16 🤣"
+    },
+    "行萬里路，唔好食萬寶路，因為唔夠氣🤣": {
+      "zh-Hant": "行萬里路，唔好食萬寶路，因為唔夠氣🤣",
+      "en": "Travel far and wide, but don't smoke Marlboro — you'll run out of breath 🤣",
+      "th": "เดินทางให้ไกล แต่อย่าสูบ Marlboro เพราะหายใจไม่พอ 🤣",
+      "ja": "遠くまで旅しよう。でもマルボロは吸わないで、息が続かないから🤣",
+      "ko": "멀리 여행하되 말보로는 피우지 마세요. 숨이 찹니다 🤣",
+      "ru": "Путешествуй далеко, но не кури Marlboro — дыхания не хватит 🤣",
+      "es": "Viaja lejos, pero no fumes Marlboro: te faltará el aire 🤣"
+    },
+    "🚬 登入": {
+      "zh-Hant": "🚬 登入",
+      "en": "🚬 Login",
+      "th": "🚬 เข้าสู่ระบบ",
+      "ja": "🚬 ログイン",
+      "ko": "🚬 로그인",
+      "ru": "🚬 Войти",
+      "es": "🚬 Iniciar sesión"
+    },
+    "雙重認證": {
+      "zh-Hant": "雙重認證",
+      "en": "Two-Factor Authentication",
+      "th": "การยืนยันตัวตนสองขั้นตอน",
+      "ja": "二要素認証",
+      "ko": "2단계 인증",
+      "ru": "Двухфакторная аутентификация",
+      "es": "Autenticación de dos factores"
+    },
+    "請輸入 Authenticator App 顯示的 6 位數字": {
+      "zh-Hant": "請輸入 Authenticator App 顯示的 6 位數字",
+      "en": "Enter the 6-digit code shown in your Authenticator app",
+      "th": "ป้อนรหัส 6 หลักจากแอป Authenticator",
+      "ja": "Authenticatorアプリに表示された6桁のコードを入力してください",
+      "ko": "Authenticator 앱에 표시된 6자리 코드를 입력하세요",
+      "ru": "Введите 6-значный код из приложения Authenticator",
+      "es": "Introduce los 6 dígitos mostrados en la aplicación Authenticator"
+    },
+    "6位數字": {
+      "zh-Hant": "6位數字",
+      "en": "6 digits",
+      "th": "6 หลัก",
+      "ja": "6桁",
+      "ko": "6자리",
+      "ru": "6 цифр",
+      "es": "6 dígitos"
+    },
+    "☠️ 驗證登入": {
+      "zh-Hant": "☠️ 驗證登入",
+      "en": "☠️ Verify & Login",
+      "th": "☠️ ยืนยันและเข้าสู่ระบบ",
+      "ja": "☠️ 認証してログイン",
+      "ko": "☠️ 인증 및 로그인",
+      "ru": "☠️ Проверить и войти",
+      "es": "☠️ Verificar e iniciar sesión"
+    },
+    "登入頁面已失效，請重新整理。": {
+      "zh-Hant": "登入頁面已失效，請重新整理。",
+      "en": "The login page has expired. Please refresh."
+    },
+    "登入名稱或密碼錯誤。": {
+      "zh-Hant": "登入名稱或密碼錯誤。",
+      "en": "Incorrect username or password.",
+      "th": "ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง",
+      "ja": "ユーザー名またはパスワードが正しくありません。",
+      "ko": "사용자 이름 또는 비밀번호가 올바르지 않습니다.",
+      "ru": "Неверное имя пользователя или пароль.",
+      "es": "Nombre de usuario o contraseña incorrectos."
+    },
+    "2FA 驗證失敗。": {
+      "zh-Hant": "2FA 驗證失敗。",
+      "en": "2FA verification failed.",
+      "th": "การยืนยัน 2FA ล้มเหลว",
+      "ja": "2FA認証に失敗しました。",
+      "ko": "2FA 인증에 실패했습니다.",
+      "ru": "Ошибка проверки 2FA.",
+      "es": "Falló la verificación 2FA."
+    },
+    "2FA 驗證工作階段已失效，請重新登入。": {
+      "zh-Hant": "2FA 驗證工作階段已失效，請重新登入。",
+      "en": "The 2FA session has expired. Please log in again.",
+      "th": "เซสชันยืนยัน 2FA หมดอายุ กรุณาเข้าสู่ระบบใหม่",
+      "ja": "2FA認証セッションの有効期限が切れました。再度ログインしてください。",
+      "ko": "2FA 인증 세션이 만료되었습니다. 다시 로그인하세요.",
+      "ru": "Сеанс проверки 2FA истёк. Войдите снова.",
+      "es": "La sesión de verificación 2FA ha caducado. Inicia sesión de nuevo."
+    },
+    "墨西哥亡靈節主題 · 訂煙、記錄、落單集中管理": {
+      "zh-Hant": "墨西哥亡靈節主題 · 訂煙、記錄、落單集中管理",
+      "en": "Day of the Dead theme · Manage cigarettes, records and orders in one place",
+      "th": "ธีมวันแห่งความตายเม็กซิโก · จัดการบุหรี่ ประวัติ และคำสั่งซื้อในที่เดียว",
+      "ja": "メキシコの死者の日テーマ · たばこ・履歴・注文を一元管理",
+      "ko": "멕시코 망자의 날 테마 · 담배, 기록, 주문을 한곳에서 관리",
+      "ru": "Тема мексиканского Дня мёртвых · сигареты, история и заказы в одном месте",
+      "es": "Tema del Día de Muertos mexicano · gestiona cigarrillos, registros y pedidos en un solo lugar"
+    },
+    "管理品牌、名稱、價錢、代碼及相片。": {
+      "zh-Hant": "管理品牌、名稱、價錢、代碼及相片。",
+      "en": "Manage brands, names, prices, codes and photos.",
+      "th": "จัดการแบรนด์ ชื่อ ราคา รหัส และรูปภาพ",
+      "ja": "ブランド、名前、価格、コード、写真を管理します。",
+      "ko": "브랜드, 이름, 가격, 코드 및 사진을 관리합니다.",
+      "ru": "Управление брендами, названиями, ценами, кодами и фото.",
+      "es": "Gestiona marcas, nombres, precios, códigos y fotos."
+    },
+    "管理訂煙者及 WhatsApp 聯絡資料。": {
+      "zh-Hant": "管理訂煙者及 WhatsApp 聯絡資料。",
+      "en": "Manage customers and WhatsApp contact details.",
+      "th": "จัดการลูกค้าและข้อมูลติดต่อ WhatsApp",
+      "ja": "顧客とWhatsApp連絡先を管理します。",
+      "ko": "고객 및 WhatsApp 연락처를 관리합니다.",
+      "ru": "Управление клиентами и контактами WhatsApp.",
+      "es": "Gestiona clientes y datos de contacto de WhatsApp."
+    },
+    "建立每一行獨立訂煙 Order。": {
+      "zh-Hant": "建立每一行獨立訂煙 Order。",
+      "en": "Create individual cigarette orders.",
+      "th": "สร้างคำสั่งซื้อแยกสำหรับแต่ละรายการ",
+      "ja": "各行ごとに個別の注文を作成します。",
+      "ko": "각 행마다 개별 주문을 생성합니다.",
+      "ru": "Создайте отдельный заказ для каждой строки.",
+      "es": "Crear un pedido independiente para cada línea."
+    },
+    "按煙款選擇後產生落單 WhatsApp 訊息。": {
+      "zh-Hant": "按煙款選擇後產生落單 WhatsApp 訊息。",
+      "en": "Generate a WhatsApp order message from selected cigarettes.",
+      "th": "เลือกบุหรี่แล้วสร้างข้อความสั่งซื้อ WhatsApp",
+      "ja": "たばこを選択してWhatsApp注文メッセージを作成します。",
+      "ko": "담배를 선택해 WhatsApp 주문 메시지를 생성합니다.",
+      "ru": "Создайте сообщение WhatsApp для заказа после выбора сигарет.",
+      "es": "Genera un mensaje de pedido de WhatsApp al seleccionar cigarrillos."
+    },
+    "🚬 煙款": {
+      "zh-Hant": "🚬 煙款",
+      "en": "🚬 Cigarettes",
+      "th": "🚬 บุหรี่",
+      "ja": "🚬 たばこ",
+      "ko": "🚬 담배",
+      "ru": "🚬 Сигареты",
+      "es": "🚬 Cigarrillos"
+    },
+    "👤 訂煙者": {
+      "zh-Hant": "👤 訂煙者",
+      "en": "👤 Customers",
+      "th": "👤 ลูกค้า",
+      "ja": "👤 顧客",
+      "ko": "👤 고객",
+      "ru": "👤 Клиенты",
+      "es": "👤 Clientes"
+    },
+    "🚬 賣煙者": {
+      "zh-Hant": "🚬 賣煙者",
+      "en": "🚬 Sellers",
+      "th": "🚬 ผู้ขาย",
+      "ja": "🚬 販売者",
+      "ko": "🚬 판매자",
+      "ru": "🚬 Продавцы",
+      "es": "🚬 Vendedores"
+    },
+    "📋 訂煙記錄": {
+      "zh-Hant": "📋 訂煙記錄",
+      "en": "📋 Order Records",
+      "th": "📋 ประวัติการสั่งซื้อ",
+      "ja": "📋 注文履歴",
+      "ko": "📋 주문 기록",
+      "ru": "📋 История заказов",
+      "es": "📋 Historial de pedidos"
+    },
+    "📦 落單": {
+      "zh-Hant": "📦 落單",
+      "en": "📦 Place Order",
+      "th": "📦 สั่งซื้อ",
+      "ja": "📦 注文する",
+      "ko": "📦 주문하기",
+      "ru": "📦 Оформить заказ",
+      "es": "📦 Hacer pedido"
+    },
+    "更變背景": {
+      "zh-Hant": "更變背景",
+      "en": "Change Background",
+      "th": "เปลี่ยนพื้นหลัง",
+      "ja": "背景を変更",
+      "ko": "배경 변경",
+      "ru": "Изменить фон",
+      "es": "Cambiar fondo"
+    },
+    "背景顏色預覽": {
+      "zh-Hant": "背景顏色預覽",
+      "en": "Background color preview",
+      "th": "ตัวอย่างสีพื้นหลัง",
+      "ja": "背景色プレビュー",
+      "ko": "배경색 미리보기",
+      "ru": "Предпросмотр цвета фона",
+      "es": "Vista previa del color de fondo"
+    },
+    "背景類型": {
+      "zh-Hant": "背景類型",
+      "en": "Background type",
+      "th": "ประเภทพื้นหลัง",
+      "ja": "背景タイプ",
+      "ko": "배경 유형",
+      "ru": "Тип фона",
+      "es": "Tipo de fondo"
+    },
+    "顏色": {
+      "zh-Hant": "顏色",
+      "en": "Color",
+      "th": "สี",
+      "ja": "色",
+      "ko": "색상",
+      "ru": "Цвет",
+      "es": "Color"
+    },
+    "相片": {
+      "zh-Hant": "相片",
+      "en": "Photo",
+      "th": "รูปภาพ",
+      "ja": "写真",
+      "ko": "사진",
+      "ru": "Фото",
+      "es": "Foto"
+    },
+    "常用顏色": {
+      "zh-Hant": "常用顏色",
+      "en": "Common colors",
+      "th": "สีที่ใช้บ่อย",
+      "ja": "よく使う色",
+      "ko": "자주 사용하는 색상",
+      "ru": "Популярные цвета",
+      "es": "Colores habituales"
+    },
+    "亡靈黑": {
+      "zh-Hant": "亡靈黑",
+      "en": "Day-of-the-Dead Black",
+      "th": "ดำวันแห่งความตาย",
+      "ja": "死者の日ブラック",
+      "ko": "망자의 날 블랙",
+      "ru": "Чёрный День мёртвых",
+      "es": "Negro del Día de Muertos"
+    },
+    "深紅": {
+      "zh-Hant": "深紅",
+      "en": "Dark Red",
+      "th": "แดงเข้ม",
+      "ja": "ダークレッド",
+      "ko": "진한 빨강",
+      "ru": "Тёмно-красный",
+      "es": "Rojo oscuro"
+    },
+    "墨綠": {
+      "zh-Hant": "墨綠",
+      "en": "Dark Green",
+      "th": "เขียวเข้ม",
+      "ja": "ダークグリーン",
+      "ko": "진한 녹색",
+      "ru": "Тёмно-зелёный",
+      "es": "Verde oscuro"
+    },
+    "深藍": {
+      "zh-Hant": "深藍",
+      "en": "Dark Blue",
+      "th": "น้ำเงินเข้ม",
+      "ja": "ダークブルー",
+      "ko": "진한 파랑",
+      "ru": "Тёмно-синий",
+      "es": "Azul oscuro"
+    },
+    "咖啡": {
+      "zh-Hant": "咖啡",
+      "en": "Coffee",
+      "th": "กาแฟ",
+      "ja": "コーヒー",
+      "ko": "커피",
+      "ru": "Кофейный",
+      "es": "Café"
+    },
+    "紫黑": {
+      "zh-Hant": "紫黑",
+      "en": "Purple Black",
+      "th": "ม่วงดำ",
+      "ja": "パープルブラック",
+      "ko": "보라색 블랙",
+      "ru": "Фиолетово-чёрный",
+      "es": "Morado negro"
+    },
+    "已上載相片": {
+      "zh-Hant": "已上載相片",
+      "en": "Uploaded photos",
+      "th": "รูปภาพที่อัปโหลด",
+      "ja": "アップロード済みの写真",
+      "ko": "업로드된 사진",
+      "ru": "Загруженные фото",
+      "es": "Fotos subidas"
+    },
+    "上載新相片": {
+      "zh-Hant": "上載新相片",
+      "en": "Upload new photo",
+      "th": "อัปโหลดรูปใหม่",
+      "ja": "新しい写真をアップロード",
+      "ko": "새 사진 업로드",
+      "ru": "Загрузить новое фото",
+      "es": "Subir nueva foto"
+    },
+    "顯示方式": {
+      "zh-Hant": "顯示方式",
+      "en": "Display mode",
+      "th": "โหมดการแสดงผล",
+      "ja": "表示モード",
+      "ko": "표시 방식",
+      "ru": "Режим отображения",
+      "es": "Modo de visualización"
+    },
+    "選擇檔案": {
+      "zh-Hant": "選擇檔案",
+      "en": "Choose file",
+      "th": "เลือกไฟล์",
+      "ja": "ファイルを選択",
+      "ko": "파일 선택",
+      "ru": "Выбрать файл",
+      "es": "Elegir archivo"
+    },
+    "Choose file": {
+      "zh-Hant": "Choose file",
+      "en": "Choose file",
+      "th": "เลือกไฟล์",
+      "ja": "ファイルを選択",
+      "ko": "파일 선택",
+      "ru": "Выбрать файл",
+      "es": "Elegir archivo"
+    },
+    "填滿": {
+      "zh-Hant": "填滿",
+      "en": "Fill",
+      "th": "เต็มพื้นที่",
+      "ja": "塗りつぶし",
+      "ko": "채우기",
+      "ru": "Заполнить",
+      "es": "Rellenar"
+    },
+    "適合": {
+      "zh-Hant": "適合",
+      "en": "Fit",
+      "th": "พอดี",
+      "ja": "フィット",
+      "ko": "맞춤",
+      "ru": "По размеру",
+      "es": "Ajustar"
+    },
+    "置中": {
+      "zh-Hant": "置中",
+      "en": "Center",
+      "th": "จัดกึ่งกลาง",
+      "ja": "中央",
+      "ko": "가운데",
+      "ru": "По центру",
+      "es": "Centrar"
+    },
+    "拉伸": {
+      "zh-Hant": "拉伸",
+      "en": "Stretch",
+      "th": "ยืด",
+      "ja": "引き伸ばし",
+      "ko": "늘이기",
+      "ru": "Растянуть",
+      "es": "Estirar"
+    },
+    "平鋪": {
+      "zh-Hant": "平鋪",
+      "en": "Tile",
+      "th": "เรียงซ้ำ",
+      "ja": "タイル",
+      "ko": "바둑판식",
+      "ru": "Мозаика",
+      "es": "Mosaico"
+    },
+    "💀 儲存背景": {
+      "zh-Hant": "💀 儲存背景",
+      "en": "💀 Save Background",
+      "th": "💀 บันทึกพื้นหลัง",
+      "ja": "💀 背景を保存",
+      "ko": "💀 배경 저장",
+      "ru": "💀 Сохранить фон",
+      "es": "💀 Guardar fondo"
+    },
+    "🌙 夜間模式": {
+      "zh-Hant": "🌙 夜間模式",
+      "en": "🌙 Dark Mode",
+      "th": "🌙 โหมดกลางคืน",
+      "ja": "🌙 ダークモード",
+      "ko": "🌙 다크 모드",
+      "ru": "🌙 Тёмный режим",
+      "es": "🌙 Modo oscuro"
+    },
+    "☀️ 關閉夜間模式": {
+      "zh-Hant": "☀️ 關閉夜間模式",
+      "en": "☀️ Turn Off Dark Mode",
+      "th": "☀️ ปิดโหมดกลางคืน",
+      "ja": "☀️ ダークモードをオフ",
+      "ko": "☀️ 다크 모드 끄기",
+      "ru": "☀️ Выключить тёмный режим",
+      "es": "☀️ Desactivar modo oscuro"
+    },
+    "🌙 開啟夜間模式": {
+      "zh-Hant": "🌙 開啟夜間模式",
+      "en": "🌙 Turn On Dark Mode",
+      "th": "🌙 เปิดโหมดกลางคืน",
+      "ja": "🌙 ダークモードをオン",
+      "ko": "🌙 다크 모드 켜기",
+      "ru": "🌙 Включить тёмный режим",
+      "es": "🌙 Activar modo oscuro"
+    },
+    "按一下即時切換，不使用 checkbox。": {
+      "zh-Hant": "按一下即時切換，不使用 checkbox。",
+      "en": "Click to switch instantly; no checkbox is used.",
+      "th": "คลิกเพื่อสลับทันที ไม่ใช้ checkbox",
+      "ja": "クリックすると即時切り替え。チェックボックスは使用しません。",
+      "ko": "클릭하면 즉시 전환되며 체크박스를 사용하지 않습니다.",
+      "ru": "Нажмите для мгновенного переключения; флажок не используется.",
+      "es": "Haz clic para cambiar al instante; no se usa casilla."
+    },
+    "🌍 中英文切換": {
+      "zh-Hant": "🌍 中英文切換",
+      "en": "🌍 Language",
+      "th": "🌍 ภาษา",
+      "ja": "🌍 言語",
+      "ko": "🌍 언어",
+      "ru": "🌍 Язык",
+      "es": "🌍 Idioma"
+    },
+    "中文": {
+      "zh-Hant": "中文",
+      "en": "Chinese",
+      "th": "ภาษาจีน",
+      "ja": "中国語",
+      "ko": "중국어",
+      "ru": "Китайский",
+      "es": "Chino"
+    },
+    "English": {
+      "zh-Hant": "English",
+      "en": "English",
+      "th": "ภาษาอังกฤษ",
+      "ja": "英語",
+      "ko": "영어",
+      "ru": "Английский",
+      "es": "Inglés"
+    },
+    "目前語言": {
+      "zh-Hant": "目前語言",
+      "en": "Current language",
+      "th": "ภาษาปัจจุบัน",
+      "ja": "現在の言語",
+      "ko": "현재 언어",
+      "ru": "Текущий язык",
+      "es": "Idioma actual"
+    },
+    "中英文": {
+      "zh-Hant": "中英文",
+      "en": "Chinese / English",
+      "th": "จีน / อังกฤษ",
+      "ja": "中国語 / 英語",
+      "ko": "중국어 / 영어",
+      "ru": "Китайский / английский",
+      "es": "Chino / inglés"
+    },
+    "切換語言": {
+      "zh-Hant": "切換語言",
+      "en": "Switch language",
+      "th": "เปลี่ยนภาษา",
+      "ja": "言語を変更",
+      "ko": "언어 변경",
+      "ru": "Сменить язык",
+      "es": "Cambiar idioma"
+    },
+    "🪟 透明化顯示比例": {
+      "zh-Hant": "🪟 透明化顯示比例",
+      "en": "🪟 Transparency",
+      "th": "🪟 ความโปร่งใส",
+      "ja": "🪟 ความโปร่งใส",
+      "ko": "🪟 투명도",
+      "ru": "🪟 Прозрачность",
+      "es": "🪟 Transparencia"
+    },
+    "系統透明化：": {
+      "zh-Hant": "系統透明化：",
+      "en": "System transparency: ",
+      "th": "ความโปร่งใสของระบบ: ",
+      "ja": "システム透明度: ",
+      "ko": "시스템 투명도: ",
+      "ru": "Прозрачность системы: ",
+      "es": "Transparencia del sistema: "
+    },
+    "5% 最透明　　100% 不透明": {
+      "zh-Hant": "5% 最透明　　100% 不透明",
+      "en": "5% most transparent　　100% opaque",
+      "th": "5% โปร่งใสที่สุด　　100% ทึบแสง",
+      "ja": "5%が最も透明　　100%が不透明",
+      "ko": "5% 가장 투명　　100% 불투명",
+      "ru": "5% — максимум прозрачности　　100% — непрозрачно",
+      "es": "5% más transparente　　100% opaco"
+    },
+    "💾 儲存透明度": {
+      "zh-Hant": "💾 儲存透明度",
+      "en": "💾 Save Transparency",
+      "th": "💾 บันทึกความโปร่งใส",
+      "ja": "💾 透明度を保存",
+      "ko": "💾 투명도 저장",
+      "ru": "💾 Сохранить прозрачность",
+      "es": "💾 Guardar transparencia"
+    },
+    "🔐 更改登入名和密碼": {
+      "zh-Hant": "🔐 更改登入名和密碼",
+      "en": "🔐 Change Username and Password",
+      "th": "🔐 เปลี่ยนชื่อผู้ใช้และรหัสผ่าน",
+      "ja": "🔐 ユーザー名とパスワードを変更",
+      "ko": "🔐 사용자 이름 및 비밀번호 변경",
+      "ru": "🔐 Изменить имя пользователя и пароль",
+      "es": "🔐 Cambiar nombre de usuario y contraseña"
+    },
+    "目前登入名": {
+      "zh-Hant": "目前登入名",
+      "en": "Current username",
+      "th": "ชื่อผู้ใช้ปัจจุบัน",
+      "ja": "現在のユーザー名",
+      "ko": "현재 사용자 이름",
+      "ru": "Текущее имя пользователя",
+      "es": "Nombre de usuario actual"
+    },
+    "目前密碼": {
+      "zh-Hant": "目前密碼",
+      "en": "Current password",
+      "th": "รหัสผ่านปัจจุบัน",
+      "ja": "現在のパスワード",
+      "ko": "현재 비밀번호",
+      "ru": "Текущий пароль",
+      "es": "Contraseña actual"
+    },
+    "新登入名": {
+      "zh-Hant": "新登入名",
+      "en": "New username",
+      "th": "ชื่อผู้ใช้ใหม่",
+      "ja": "新しいユーザー名",
+      "ko": "새 사용자 이름",
+      "ru": "Новое имя пользователя",
+      "es": "Nuevo nombre de usuario"
+    },
+    "新密碼": {
+      "zh-Hant": "新密碼",
+      "en": "New password",
+      "th": "รหัสผ่านใหม่",
+      "ja": "新しいパスワード",
+      "ko": "새 비밀번호",
+      "ru": "Новый пароль",
+      "es": "Nueva contraseña"
+    },
+    "儲存新登入資料": {
+      "zh-Hant": "儲存新登入資料",
+      "en": "Save New Login Details",
+      "th": "บันทึกข้อมูลเข้าสู่ระบบใหม่",
+      "ja": "新しいログイン情報を保存",
+      "ko": "새 로그인 정보 저장",
+      "ru": "Сохранить новые данные входа",
+      "es": "Guardar nuevos datos de inicio de sesión"
+    },
+    "☠️ 更改 admin 密碼": {
+      "zh-Hant": "☠️ 更改 admin 密碼",
+      "en": "☠️ Change admin Password",
+      "th": "☠️ เปลี่ยนรหัสผ่าน admin",
+      "ja": "☠️ adminパスワードを変更",
+      "ko": "☠️ admin 비밀번호 변경",
+      "ru": "☠️ Изменить пароль admin",
+      "es": "☠️ Cambiar contraseña de admin"
+    },
+    "目前 admin 密碼": {
+      "zh-Hant": "目前 admin 密碼",
+      "en": "Current admin password",
+      "th": "รหัสผ่าน admin ปัจจุบัน",
+      "ja": "現在のadminパスワード",
+      "ko": "현재 admin 비밀번호",
+      "ru": "Текущий пароль admin",
+      "es": "Contraseña de admin actual"
+    },
+    "新 admin 密碼": {
+      "zh-Hant": "新 admin 密碼",
+      "en": "New admin password",
+      "th": "รหัสผ่าน admin ใหม่",
+      "ja": "新しいadminパスワード",
+      "ko": "새 admin 비밀번호",
+      "ru": "Новый пароль admin",
+      "es": "Nueva contraseña de admin"
+    },
+    "更新 admin 密碼": {
+      "zh-Hant": "更新 admin 密碼",
+      "en": "Update admin Password",
+      "th": "อัปเดตรหัสผ่าน admin",
+      "ja": "adminパスワードを更新",
+      "ko": "admin 비밀번호 업데이트",
+      "ru": "Обновить пароль admin",
+      "es": "Actualizar contraseña de admin"
+    },
+    "📱 雙重認證（2FA / TOTP）": {
+      "zh-Hant": "📱 雙重認證（2FA / TOTP）",
+      "en": "📱 Two-Factor Authentication (2FA / TOTP)",
+      "th": "📱 การยืนยันสองขั้นตอน (2FA / TOTP)",
+      "ja": "📱 二要素認証（2FA / TOTP）",
+      "ko": "📱 2단계 인증(2FA / TOTP)",
+      "ru": "📱 Двухфакторная аутентификация (2FA / TOTP)",
+      "es": "📱 Autenticación de dos factores (2FA / TOTP)"
+    },
+    "啟用雙重認證（TOTP）": {
+      "zh-Hant": "啟用雙重認證（TOTP）",
+      "en": "Enable two-factor authentication (TOTP)",
+      "th": "เปิดใช้งานการยืนยันสองขั้นตอน (TOTP)",
+      "ja": "二要素認証（TOTP）を有効にする",
+      "ko": "2단계 인증(TOTP) 활성화",
+      "ru": "Включить двухфакторную аутентификацию (TOTP)",
+      "es": "Activar autenticación de dos factores (TOTP)"
+    },
+    "💾 儲存2FA開關": {
+      "zh-Hant": "💾 儲存2FA開關",
+      "en": "💾 Save 2FA setting",
+      "th": "💾 บันทึกการตั้งค่า 2FA",
+      "ja": "💾 2FA設定を保存",
+      "ko": "💾 2FA 설정 저장",
+      "ru": "💾 Сохранить настройку 2FA",
+      "es": "💾 Guardar configuración 2FA"
+    },
+    "👁️ 顯示/隱藏 QR Code": {
+      "zh-Hant": "👁️ 顯示/隱藏 QR Code",
+      "en": "👁️ Show/Hide QR Code",
+      "th": "👁️ แสดง/ซ่อน QR Code",
+      "ja": "👁️ QRコードを表示/非表示",
+      "ko": "👁️ QR 코드 표시/숨기기",
+      "ru": "👁️ Показать/скрыть QR-код",
+      "es": "👁️ Mostrar/ocultar código QR"
+    },
+    "重新產生後舊 Code 即刻失效，確定？": {
+      "zh-Hant": "重新產生後舊 Code 即刻失效，確定？",
+      "en": "Regenerating will immediately invalidate the old code. Continue?",
+      "th": "การสร้างใหม่จะทำให้โค้ดเดิมใช้ไม่ได้ทันที ดำเนินการต่อหรือไม่?",
+      "ja": "再生成すると古いコードは無効になります。続行しますか？",
+      "ko": "재생성하면 기존 코드가 즉시 무효화됩니다. 계속하시겠습니까?",
+      "ru": "После генерации старый код сразу станет недействительным. Продолжить?",
+      "es": "Regenerar invalidará inmediatamente el código anterior. ¿Continuar?"
+    },
+    "♻️ 重新產生金鑰（舊 Code 即刻失效）": {
+      "zh-Hant": "♻️ 重新產生金鑰（舊 Code 即刻失效）",
+      "en": "♻️ Regenerate Key (old code expires immediately)",
+      "th": "♻️ สร้างคีย์ใหม่ (โค้ดเดิมใช้ไม่ได้ทันที)",
+      "ja": "♻️ キーを再生成（旧コードは直ちに無効）",
+      "ko": "♻️ 키 재생성(기존 코드 즉시 무효화)",
+      "ru": "♻️ Создать новый ключ (старый код сразу недействителен)",
+      "es": "♻️ Regenerar clave (el código anterior caduca de inmediato)"
+    },
+    "Secret：": {
+      "zh-Hant": "Secret：",
+      "en": "Secret: ",
+      "th": "Secret: ",
+      "ja": "シークレット: ",
+      "ko": "시크릿: ",
+      "ru": "Секрет: ",
+      "es": "Secreto: "
+    },
+    "尚未產生 2FA 金鑰。": {
+      "zh-Hant": "尚未產生 2FA 金鑰。",
+      "en": "No 2FA key has been generated yet.",
+      "th": "ยังไม่ได้สร้างคีย์ 2FA",
+      "ja": "2FAキーはまだ生成されていません。",
+      "ko": "아직 2FA 키가 생성되지 않았습니다.",
+      "ru": "Ключ 2FA ещё не создан.",
+      "es": "Aún no se ha generado la clave 2FA."
+    },
+    "輸入 admin 密碼後顯示 QR Code": {
+      "zh-Hant": "輸入 admin 密碼後顯示 QR Code",
+      "en": "Enter the admin password to show the QR Code",
+      "th": "ป้อนรหัสผ่าน admin เพื่อแสดง QR Code",
+      "ja": "adminパスワードを入力してQRコードを表示",
+      "ko": "admin 비밀번호를 입력하면 QR 코드가 표시됩니다",
+      "ru": "Введите пароль admin, чтобы показать QR-код",
+      "es": "Introduce la contraseña de admin para mostrar el código QR"
+    },
+    "🔐 驗證並顯示 QR Code": {
+      "zh-Hant": "🔐 驗證並顯示 QR Code",
+      "en": "🔐 Verify and Show QR Code",
+      "th": "🔐 ยืนยันและแสดง QR Code",
+      "ja": "🔐 認証してQRコードを表示",
+      "ko": "🔐 인증 후 QR 코드 표시",
+      "ru": "🔐 Проверить и показать QR-код",
+      "es": "🔐 Verificar y mostrar código QR"
+    },
+    "QR code library unavailable. Run:": {
+      "zh-Hant": "QR code library unavailable. Run:",
+      "en": "QR code library unavailable. Run:",
+      "th": "ไม่มีไลบรารี QR code กรุณารัน:",
+      "ja": "QRコードライブラリがありません。実行:",
+      "ko": "QR 코드 라이브러리를 사용할 수 없습니다. 실행:",
+      "ru": "Библиотека QR-кодов недоступна. Выполните:",
+      "es": "Biblioteca de códigos QR no disponible. Ejecuta:"
+    },
+    "⚙️ 系統設定": {
+      "zh-Hant": "⚙️ 系統設定",
+      "en": "⚙️ System Settings",
+      "th": "⚙️ การตั้งค่าระบบ",
+      "ja": "⚙️ システム設定",
+      "ko": "⚙️ 시스템 설정",
+      "ru": "⚙️ Системные настройки",
+      "es": "⚙️ Configuración del sistema"
+    },
+    "錯誤": {
+      "zh-Hant": "錯誤",
+      "en": "Error",
+      "th": "ข้อผิดพลาด",
+      "ja": "エラー",
+      "ko": "오류",
+      "ru": "Ошибка",
+      "es": "Error"
+    },
+    "設定錯誤": {
+      "zh-Hant": "設定錯誤",
+      "en": "Settings Error",
+      "th": "ข้อผิดพลาดในการตั้งค่า",
+      "ja": "設定エラー",
+      "ko": "설정 오류",
+      "ru": "Ошибка настроек",
+      "es": "Error de configuración"
+    },
+    "CSRF 驗證失敗，請重新整理頁面。": {
+      "zh-Hant": "CSRF 驗證失敗，請重新整理頁面。",
+      "en": "CSRF verification failed. Please refresh the page.",
+      "th": "การตรวจสอบ CSRF ล้มเหลว กรุณาโหลดหน้าใหม่",
+      "ja": "CSRF検証に失敗しました。ページを更新してください。",
+      "ko": "CSRF 검증에 실패했습니다. 페이지를 새로고침하세요.",
+      "ru": "Проверка CSRF не удалась. Обновите страницу.",
+      "es": "La verificación CSRF falló. Actualiza la página."
+    },
+    "目前登入名稱或密碼錯誤。": {
+      "zh-Hant": "目前登入名稱或密碼錯誤。",
+      "en": "Current username or password is incorrect.",
+      "th": "ชื่อผู้ใช้หรือรหัสผ่านปัจจุบันไม่ถูกต้อง",
+      "ja": "現在のユーザー名またはパスワードが正しくありません。",
+      "ko": "현재 사용자 이름 또는 비밀번호가 올바르지 않습니다.",
+      "ru": "Текущее имя пользователя или пароль неверны.",
+      "es": "El nombre de usuario o contraseña actuales son incorrectos."
+    },
+    "目前 admin 密碼錯誤。": {
+      "zh-Hant": "目前 admin 密碼錯誤。",
+      "en": "Current admin password is incorrect.",
+      "th": "รหัสผ่าน admin ปัจจุบันไม่ถูกต้อง",
+      "ja": "現在のadminパスワードが正しくありません。",
+      "ko": "현재 admin 비밀번호가 올바르지 않습니다.",
+      "ru": "Текущий пароль admin неверен.",
+      "es": "La contraseña de admin actual es incorrecta."
+    },
+    "admin 密碼錯誤。": {
+      "zh-Hant": "admin 密碼錯誤。",
+      "en": "Incorrect admin password.",
+      "th": "รหัสผ่าน admin ไม่ถูกต้อง",
+      "ja": "adminパスワードが正しくありません。",
+      "ko": "admin 비밀번호가 올바르지 않습니다.",
+      "ru": "Неверный пароль admin.",
+      "es": "Contraseña de admin incorrecta."
+    },
+    "煙的品牌": {
+      "zh-Hant": "煙的品牌",
+      "en": "Cigarette brand",
+      "th": "แบรนด์บุหรี่",
+      "ja": "たばこのブランド",
+      "ko": "담배 브랜드",
+      "ru": "Бренд сигарет",
+      "es": "Marca de cigarrillos"
+    },
+    "煙的名稱": {
+      "zh-Hant": "煙的名稱",
+      "en": "Cigarette name",
+      "th": "ชื่อบุหรี่",
+      "ja": "たばこの名前",
+      "ko": "담배 이름",
+      "ru": "Название сигареты",
+      "es": "Nombre del cigarrillo"
+    },
+    "價錢": {
+      "zh-Hant": "價錢",
+      "en": "Price",
+      "th": "ราคา",
+      "ja": "価格",
+      "ko": "가격",
+      "ru": "Цена",
+      "es": "Precio"
+    },
+    "代碼（如有）": {
+      "zh-Hant": "代碼（如有）",
+      "en": "Code (optional)",
+      "th": "รหัส (ถ้ามี)",
+      "ja": "コード（任意）",
+      "ko": "코드(선택)",
+      "ru": "Код (необязательно)",
+      "es": "Código (opcional)"
+    },
+    "已有香煙相片": {
+      "zh-Hant": "已有香煙相片",
+      "en": "Existing cigarette photo",
+      "th": "รูปบุหรี่ที่มีอยู่",
+      "ja": "既存の写真",
+      "ko": "기존 담배 사진",
+      "ru": "Существующее фото",
+      "es": "Foto existente"
+    },
+    "如不重新上載相片，會保留原有相片。": {
+      "zh-Hant": "如不重新上載相片，會保留原有相片。",
+      "en": "If you do not upload a new photo, the existing photo will be kept.",
+      "th": "หากไม่อัปโหลดรูปใหม่ จะเก็บรูปเดิมไว้",
+      "ja": "新しい写真をアップロードしない場合、既存の写真を保持します。",
+      "ko": "새 사진을 업로드하지 않으면 기존 사진을 유지합니다.",
+      "ru": "Если новое фото не загружать, сохранится старое.",
+      "es": "Si no subes una foto nueva, se conservará la existente."
+    },
+    "取消": {
+      "zh-Hant": "取消",
+      "en": "Cancel",
+      "th": "ยกเลิก",
+      "ja": "キャンセル",
+      "ko": "취소",
+      "ru": "Отмена",
+      "es": "Cancelar"
+    },
+    "💾 儲存": {
+      "zh-Hant": "💾 儲存",
+      "en": "💾 Save",
+      "th": "💾 บันทึก",
+      "ja": "💾 保存",
+      "ko": "💾 저장",
+      "ru": "💾 Сохранить",
+      "es": "💾 Guardar"
+    },
+    "✏️ 修改": {
+      "zh-Hant": "✏️ 修改",
+      "en": "✏️ Edit",
+      "th": "✏️ แก้ไข",
+      "ja": "✏️ 編集",
+      "ko": "✏️ 수정",
+      "ru": "✏️ Изменить",
+      "es": "✏️ Editar"
+    },
+    "🗑️ 刪除": {
+      "zh-Hant": "🗑️ 刪除",
+      "en": "🗑️ Delete",
+      "th": "🗑️ ลบ",
+      "ja": "🗑️ 削除",
+      "ko": "🗑️ 삭제",
+      "ru": "🗑️ Удалить",
+      "es": "🗑️ Eliminar"
+    },
+    "🚬 暫時無資料": {
+      "zh-Hant": "🚬 暫時無資料",
+      "en": "🚬 No data yet",
+      "th": "🚬 ยังไม่มีข้อมูล",
+      "ja": "🚬 データはまだありません",
+      "ko": "🚬 아직 데이터가 없습니다",
+      "ru": "🚬 Пока нет данных",
+      "es": "🚬 Aún no hay datos"
+    },
+    "確定刪除呢款煙？": {
+      "zh-Hant": "確定刪除呢款煙？",
+      "en": "Delete this cigarette?",
+      "th": "ยืนยันการลบบุหรี่นี้หรือไม่?",
+      "ja": "このたばこを削除しますか？",
+      "ko": "이 담배를 삭제하시겠습니까?",
+      "ru": "Удалить эту сигарету?",
+      "es": "¿Eliminar este cigarrillo?"
+    },
+    "訂煙者稱呼": {
+      "zh-Hant": "訂煙者稱呼",
+      "en": "Customer name",
+      "th": "ชื่อลูกค้า",
+      "ja": "顧客名",
+      "ko": "고객 이름",
+      "ru": "Имя клиента",
+      "es": "Nombre del cliente"
+    },
+    "送貨地點": {
+      "zh-Hant": "送貨地點",
+      "en": "Delivery address",
+      "th": "ที่อยู่จัดส่ง",
+      "ja": "配送先",
+      "ko": "배송 주소",
+      "ru": "Адрес доставки",
+      "es": "Dirección de entrega"
+    },
+    "電話 / WhatsApp": {
+      "zh-Hant": "電話 / WhatsApp",
+      "en": "Phone / WhatsApp",
+      "th": "โทรศัพท์ / WhatsApp",
+      "ja": "電話 / WhatsApp",
+      "ko": "전화 / WhatsApp",
+      "ru": "Телефон / WhatsApp",
+      "es": "Teléfono / WhatsApp"
+    },
+    "WhatsApp 內容": {
+      "zh-Hant": "WhatsApp 內容",
+      "en": "WhatsApp content",
+      "th": "ข้อความ WhatsApp",
+      "ja": "WhatsApp メッセージ",
+      "ko": "WhatsApp 내용",
+      "ru": "Сообщение WhatsApp",
+      "es": "Contenido de WhatsApp"
+    },
+    "有煙食喇": {
+      "zh-Hant": "有煙食喇",
+      "en": "Cigarettes are available",
+      "th": "มีบุหรี่แล้ว",
+      "ja": "たばこがあります",
+      "ko": "담배가 있습니다",
+      "ru": "Сигареты в наличии",
+      "es": "Hay cigarrillos"
+    },
+    "確定刪除呢位訂煙者？": {
+      "zh-Hant": "確定刪除呢位訂煙者？",
+      "en": "Delete this customer?",
+      "th": "ยืนยันการลบลูกค้ารายนี้หรือไม่?",
+      "ja": "この顧客を削除しますか？",
+      "ko": "이 고객을 삭제하시겠습니까?",
+      "ru": "Удалить этого клиента?",
+      "es": "¿Eliminar este cliente?"
+    },
+    "賣煙者稱呼": {
+      "zh-Hant": "賣煙者稱呼",
+      "en": "Seller name",
+      "th": "ชื่อผู้ขาย",
+      "ja": "販売者名",
+      "ko": "판매자 이름",
+      "ru": "Имя продавца",
+      "es": "Nombre del vendedor"
+    },
+    "評價": {
+      "zh-Hant": "評價",
+      "en": "Rating",
+      "th": "คะแนน",
+      "ja": "評価",
+      "ko": "평가",
+      "ru": "Оценка",
+      "es": "Valoración"
+    },
+    "評語": {
+      "zh-Hant": "評語",
+      "en": "Comment",
+      "th": "ความคิดเห็น",
+      "ja": "コメント",
+      "ko": "의견",
+      "ru": "Комментарий",
+      "es": "Comentario"
+    },
+    "確定刪除呢位賣煙者？": {
+      "zh-Hant": "確定刪除呢位賣煙者？",
+      "en": "Delete this seller?",
+      "th": "ยืนยันการลบผู้ขายรายนี้หรือไม่?",
+      "ja": "この販売者を削除しますか？",
+      "ko": "이 판매자를 삭제하시겠습니까?",
+      "ru": "Удалить этого продавца?",
+      "es": "¿Eliminar este vendedor?"
+    },
+    "搜尋煙名稱、價錢、代碼、數量、訂煙者稱呼、電話 / WhatsApp": {
+      "zh-Hant": "搜尋煙名稱、價錢、代碼、數量、訂煙者稱呼、電話 / WhatsApp",
+      "en": "Search cigarette name, price, code, quantity, customer name, phone / WhatsApp",
+      "th": "ค้นหาชื่อบุหรี่ ราคา รหัส จำนวน ชื่อลูกค้า โทรศัพท์ / WhatsApp",
+      "ja": "たばこの名前、価格、コード、数量、顧客名、電話 / WhatsAppを検索",
+      "ko": "담배 이름, 가격, 코드, 수량, 고객 이름, 전화 / WhatsApp 검색",
+      "ru": "Поиск по названию, цене, коду, количеству, клиенту, телефону / WhatsApp",
+      "es": "Buscar nombre, precio, código, cantidad, cliente, teléfono / WhatsApp"
+    },
+    "🔎 搜尋": {
+      "zh-Hant": "🔎 搜尋",
+      "en": "🔎 Search",
+      "th": "🔎 ค้นหา",
+      "ja": "🔎 検索",
+      "ko": "🔎 검색",
+      "ru": "🔎 Поиск",
+      "es": "🔎 Buscar"
+    },
+    "訂煙者資料": {
+      "zh-Hant": "訂煙者資料",
+      "en": "Customer details",
+      "th": "ข้อมูลลูกค้า",
+      "ja": "顧客情報",
+      "ko": "고객 정보",
+      "ru": "Данные клиента",
+      "es": "Datos del cliente"
+    },
+    "選擇訂煙者": {
+      "zh-Hant": "選擇訂煙者",
+      "en": "Select customer",
+      "th": "เลือกลูกค้า",
+      "ja": "顧客を選択",
+      "ko": "고객 선택",
+      "ru": "Выберите клиента",
+      "es": "Seleccionar cliente"
+    },
+    "煙款（同一張 Order 可加入多款煙）": {
+      "zh-Hant": "煙款（同一張 Order 可加入多款煙）",
+      "en": "Cigarettes (multiple types can be added to one order)",
+      "th": "บุหรี่ (หนึ่งคำสั่งซื้อสามารถมีหลายชนิด)",
+      "ja": "たばこ（1件の注文に複数種類を追加できます）",
+      "ko": "담배(한 주문에 여러 종류 추가 가능)",
+      "ru": "Сигареты (в одном заказе можно добавить несколько видов)",
+      "es": "Cigarrillos (se pueden añadir varios tipos a un pedido)"
+    },
+    "➕ 增加另一款煙": {
+      "zh-Hant": "➕ 增加另一款煙",
+      "en": "➕ Add another type",
+      "th": "➕ เพิ่มบุหรี่อีกชนิด",
+      "ja": "➕ 別のたばこを追加",
+      "ko": "➕ 다른 담배 추가",
+      "ru": "➕ Добавить ещё один вид",
+      "es": "➕ Añadir otro tipo"
+    },
+    "💾 儲存 Order": {
+      "zh-Hant": "💾 儲存 Order",
+      "en": "💾 Save Order",
+      "th": "💾 บันทึกคำสั่งซื้อ",
+      "ja": "💾 注文を保存",
+      "ko": "💾 주문 저장",
+      "ru": "💾 Сохранить заказ",
+      "es": "💾 Guardar pedido"
+    },
+    "時間": {
+      "zh-Hant": "時間",
+      "en": "Time",
+      "th": "เวลา",
+      "ja": "日時",
+      "ko": "시간",
+      "ru": "Время",
+      "es": "Hora"
+    },
+    "操作": {
+      "zh-Hant": "操作",
+      "en": "Actions",
+      "th": "การดำเนินการ",
+      "ja": "操作",
+      "ko": "작업",
+      "ru": "Действия",
+      "es": "Acciones"
+    },
+    "確定刪除呢張訂煙 Order？": {
+      "zh-Hant": "確定刪除呢張訂煙 Order？",
+      "en": "Delete this cigarette order?",
+      "th": "ยืนยันการลบคำสั่งซื้อนี้หรือไม่?",
+      "ja": "この注文を削除しますか？",
+      "ko": "이 주문을 삭제하시겠습니까?",
+      "ru": "Удалить этот заказ?",
+      "es": "¿Eliminar este pedido?"
+    },
+    "暫時無資料": {
+      "zh-Hant": "暫時無資料",
+      "en": "No data yet",
+      "th": "ยังไม่มีข้อมูล",
+      "ja": "データはまだありません",
+      "ko": "아직 데이터가 없습니다",
+      "ru": "Пока нет данных",
+      "es": "Aún no hay datos"
+    },
+    "選擇煙款": {
+      "zh-Hant": "選擇煙款",
+      "en": "Select cigarette",
+      "th": "เลือกบุหรี่",
+      "ja": "たばこを選択",
+      "ko": "담배 선택",
+      "ru": "Выберите сигарету",
+      "es": "Seleccionar cigarrillo"
+    },
+    "選擇煙款後顯示完整資料及相片": {
+      "zh-Hant": "選擇煙款後顯示完整資料及相片",
+      "en": "Full details and photo will appear after selecting a cigarette",
+      "th": "หลังเลือกบุหรี่จะแสดงข้อมูลและรูปภาพทั้งหมด",
+      "ja": "たばこを選択すると詳細情報と写真が表示されます",
+      "ko": "담배를 선택하면 전체 정보와 사진이 표시됩니다",
+      "ru": "После выбора отобразятся подробности и фото",
+      "es": "Después de seleccionar se mostrarán los detalles y la foto"
+    },
+    "品牌：": {
+      "zh-Hant": "品牌：",
+      "en": "Brand: ",
+      "th": "แบรนด์: ",
+      "ja": "ブランド: ",
+      "ko": "브랜드: ",
+      "ru": "Бренд: ",
+      "es": "Marca: "
+    },
+    "名稱：": {
+      "zh-Hant": "名稱：",
+      "en": "Name: ",
+      "th": "ชื่อ: ",
+      "ja": "名称: ",
+      "ko": "이름: ",
+      "ru": "Название: ",
+      "es": "Nombre: "
+    },
+    "價錢：": {
+      "zh-Hant": "價錢：",
+      "en": "Price: ",
+      "th": "ราคา: ",
+      "ja": "価格: ",
+      "ko": "가격: ",
+      "ru": "Цена: ",
+      "es": "Precio: "
+    },
+    "無相片": {
+      "zh-Hant": "無相片",
+      "en": "No photo",
+      "th": "ไม่มีรูปภาพ",
+      "ja": "写真なし",
+      "ko": "사진 없음",
+      "ru": "Нет фото",
+      "es": "Sin foto"
+    },
+    "移除": {
+      "zh-Hant": "移除",
+      "en": "Remove",
+      "th": "ลบออก",
+      "ja": "削除",
+      "ko": "제거",
+      "ru": "Удалить",
+      "es": "Quitar"
+    },
+    "條": {
+      "zh-Hant": "條",
+      "en": "stick(s)",
+      "th": "มวน",
+      "ja": "本",
+      "ko": "개비",
+      "ru": "шт.",
+      "es": "unidad(es)"
+    },
+    "包": {
+      "zh-Hant": "包",
+      "en": "pack(s)",
+      "th": "ซอง",
+      "ja": "箱",
+      "ko": "갑",
+      "ru": "пач.",
+      "es": "paquete(s)"
+    },
+    "條煙": {
+      "zh-Hant": "條煙",
+      "en": "stick(s)",
+      "th": "มวน",
+      "ja": "本",
+      "ko": "개비",
+      "ru": "шт.",
+      "es": "cigarrillos"
+    },
+    "包煙": {
+      "zh-Hant": "包煙",
+      "en": "pack(s)",
+      "th": "ซอง",
+      "ja": "箱",
+      "ko": "갑",
+      "ru": "пачка",
+      "es": "paquete"
+    },
+    "選擇訂煙 Order": {
+      "zh-Hant": "選擇訂煙 Order",
+      "en": "Select cigarette order",
+      "th": "เลือกคำสั่งซื้อ",
+      "ja": "注文を選択",
+      "ko": "주문 선택",
+      "ru": "Выберите заказ",
+      "es": "Seleccionar pedido"
+    },
+    "請選擇一張訂煙 Order": {
+      "zh-Hant": "請選擇一張訂煙 Order",
+      "en": "Please select a cigarette order",
+      "th": "โปรดเลือกคำสั่งซื้อ",
+      "ja": "注文を選択してください",
+      "ko": "주문을 선택하세요",
+      "ru": "Выберите заказ",
+      "es": "Selecciona un pedido"
+    },
+    "選擇後會顯示煙款及數量": {
+      "zh-Hant": "選擇後會顯示煙款及數量",
+      "en": "Cigarettes and quantities will appear after selection",
+      "th": "เลือกแล้วจะแสดงชนิดและจำนวนบุหรี่",
+      "ja": "選択するとたばこの種類と数量が表示されます",
+      "ko": "선택하면 담배 종류와 수량이 표시됩니다",
+      "ru": "После выбора отобразятся сигареты и количество",
+      "es": "Después de seleccionar se mostrarán los cigarrillos y cantidades"
+    },
+    "選擇賣煙者": {
+      "zh-Hant": "選擇賣煙者",
+      "en": "Select seller",
+      "th": "เลือกผู้ขาย",
+      "ja": "販売者を選択",
+      "ko": "판매자 선택",
+      "ru": "Выберите продавца",
+      "es": "Seleccionar vendedor"
+    },
+    "請選擇賣煙者": {
+      "zh-Hant": "請選擇賣煙者",
+      "en": "Please select a seller",
+      "th": "โปรดเลือกผู้ขาย",
+      "ja": "販売者を選択してください",
+      "ko": "판매자를 선택하세요",
+      "ru": "Выберите продавца",
+      "es": "Selecciona un vendedor"
+    },
+    "📋 複製到剪貼簿": {
+      "zh-Hant": "📋 複製到剪貼簿",
+      "en": "📋 Copy to Clipboard",
+      "th": "📋 คัดลอกไปยังคลิปบอร์ด",
+      "ja": "📋 クリップボードにコピー",
+      "ko": "📋 클립보드에 복사",
+      "ru": "📋 Копировать в буфер",
+      "es": "📋 Copiar al portapapeles"
+    },
+    "☠️ 訂煙資料": {
+      "zh-Hant": "☠️ 訂煙資料",
+      "en": "☠️ Order Details",
+      "th": "☠️ รายละเอียดคำสั่งซื้อ",
+      "ja": "☠️ 注文詳細",
+      "ko": "☠️ 주문 정보",
+      "ru": "☠️ Данные заказа",
+      "es": "☠️ Detalles del pedido"
+    },
+    "每張 Order 可包含多款煙，會一次過產生 WhatsApp 訊息。": {
+      "zh-Hant": "每張 Order 可包含多款煙，會一次過產生 WhatsApp 訊息。",
+      "en": "Each order can contain multiple cigarette types and generates one WhatsApp message.",
+      "th": "แต่ละคำสั่งซื้อมีบุหรี่หลายชนิดได้ และสร้างข้อความ WhatsApp ครั้งเดียว",
+      "ja": "1件の注文に複数のたばこを含め、WhatsAppメッセージを一度に作成できます。",
+      "ko": "각 주문에 여러 담배를 포함하고 WhatsApp 메시지를 한 번에 생성합니다.",
+      "ru": "Каждый заказ может содержать несколько видов сигарет, сообщение WhatsApp создаётся сразу.",
+      "es": "Cada pedido puede incluir varios tipos de cigarrillos y generar un mensaje de WhatsApp."
+    },
+    "有冇貨？如有貨，送去：": {
+      "zh-Hant": "有冇貨？如有貨，送去：",
+      "en": "Is it available? If so, please deliver to:",
+      "th": "มีสินค้าไหม? ถ้ามี กรุณาส่งไปที่:",
+      "ja": "在庫がありますか？あれば配送先:",
+      "ko": "재고가 있나요? 있다면 배송지:",
+      "ru": "Есть в наличии? Если да, доставить:",
+      "es": "¿Hay disponibilidad? Si la hay, entregar a:"
+    },
+    "儲存": {
+      "zh-Hant": "儲存",
+      "en": "Save",
+      "th": "บันทึก",
+      "ja": "保存",
+      "ko": "저장",
+      "ru": "Сохранить",
+      "es": "Guardar"
+    },
+    "修改": {
+      "zh-Hant": "修改",
+      "en": "Edit",
+      "th": "แก้ไข",
+      "ja": "編集",
+      "ko": "수정",
+      "ru": "Изменить",
+      "es": "Editar"
+    },
+    "刪除": {
+      "zh-Hant": "刪除",
+      "en": "Delete",
+      "th": "ลบ",
+      "ja": "削除",
+      "ko": "삭제",
+      "ru": "Удалить",
+      "es": "Eliminar"
+    },
+    "電話 / WhatsApp：": {
+      "zh-Hant": "電話 / WhatsApp：",
+      "en": "Phone / WhatsApp: ",
+      "th": "โทรศัพท์ / WhatsApp: ",
+      "ja": "電話 / WhatsApp: ",
+      "ko": "전화 / WhatsApp: ",
+      "ru": "Телефон / WhatsApp: ",
+      "es": "Teléfono / WhatsApp: "
+    },
+    "送貨地點：": {
+      "zh-Hant": "送貨地點：",
+      "en": "Delivery address: ",
+      "th": "ที่อยู่จัดส่ง: ",
+      "ja": "配送先: ",
+      "ko": "배송 주소: ",
+      "ru": "Адрес доставки: ",
+      "es": "Dirección de entrega: "
+    },
+    "評價：": {
+      "zh-Hant": "評價：",
+      "en": "Rating: ",
+      "th": "คะแนน: ",
+      "ja": "評価: ",
+      "ko": "평가: ",
+      "ru": "Оценка: ",
+      "es": "Valoración: "
+    },
+    "評語：": {
+      "zh-Hant": "評語：",
+      "en": "Comment: ",
+      "th": "ความคิดเห็น: ",
+      "ja": "コメント: ",
+      "ko": "의견: ",
+      "ru": "Комментарий: ",
+      "es": "Comentario: "
+    },
+    "WhatsApp 內容：": {
+      "zh-Hant": "WhatsApp 內容：",
+      "en": "WhatsApp content: ",
+      "th": "ข้อความ WhatsApp: ",
+      "ja": "WhatsAppメッセージ: ",
+      "ko": "WhatsApp 내용: ",
+      "ru": "Сообщение WhatsApp: ",
+      "es": "Contenido de WhatsApp: "
+    },
+    "煙款：": {
+      "zh-Hant": "煙款：",
+      "en": "Cigarettes: ",
+      "th": "บุหรี่: ",
+      "ja": "たばこ: ",
+      "ko": "담배: ",
+      "ru": "Сигареты: ",
+      "es": "Cigarrillos: "
+    },
+    "總數：": {
+      "zh-Hant": "總數：",
+      "en": "Total: ",
+      "th": "รวม: ",
+      "ja": "合計: ",
+      "ko": "총 수량: ",
+      "ru": "Всего: ",
+      "es": "Total: "
+    },
+    "確定？": {
+      "zh-Hant": "確定？",
+      "en": "Continue?",
+      "th": "ยืนยันหรือไม่?",
+      "ja": "続行しますか？",
+      "ko": "계속하시겠습니까?",
+      "ru": "Продолжить?",
+      "es": "¿Continuar?"
+    },
+    "有冇貨？": {
+      "zh-Hant": "有冇貨？",
+      "en": "Is it available?",
+      "th": "มีสินค้าไหม?",
+      "ja": "在庫がありますか？",
+      "ko": "재고가 있나요?",
+      "ru": "Есть в наличии?",
+      "es": "¿Hay disponibilidad?"
+    },
+    "如有貨，送去：": {
+      "zh-Hant": "如有貨，送去：",
+      "en": "If available, please deliver to:",
+      "th": "ถ้ามีสินค้า กรุณาส่งไปที่:",
+      "ja": "在庫があれば配送先:",
+      "ko": "재고가 있으면 배송지:",
+      "ru": "Если есть в наличии, доставить:",
+      "es": "Si está disponible, entregar en:"
+    },
+    "賣煙者：": {
+      "zh-Hant": "賣煙者：",
+      "en": "Seller: ",
+      "th": "ผู้ขาย: ",
+      "ja": "販売者: ",
+      "ko": "판매자: ",
+      "ru": "Продавец: ",
+      "es": "Vendedor: "
+    },
+    "訂煙：": {
+      "zh-Hant": "訂煙：",
+      "en": "Order: ",
+      "th": "คำสั่งซื้อ: ",
+      "ja": "注文: ",
+      "ko": "주문: ",
+      "ru": "Заказ: ",
+      "es": "Pedido: "
+    },
+    "💬 WhatsApp": {
+      "zh-Hant": "💬 WhatsApp",
+      "en": "💬 WhatsApp",
+      "th": "💬 WhatsApp",
+      "ja": "💬 WhatsApp",
+      "ko": "💬 WhatsApp",
+      "ru": "💬 WhatsApp",
+      "es": "💬 WhatsApp"
+    },
+    "⚠️": {
+      "zh-Hant": "⚠️",
+      "en": "⚠️",
+      "th": "⚠️",
+      "ja": "⚠️",
+      "ko": "⚠️",
+      "ru": "⚠️",
+      "es": "⚠️"
+    },
+    "管理賣煙者、電話、評價及評語。": {
+      "zh-Hant": "管理賣煙者、電話、評價及評語。",
+      "en": "Manage sellers, phone numbers, ratings and comments."
+    },
+    "新增煙款": {
+      "zh-Hant": "新增煙款",
+      "en": "Add Cigarette",
+      "th": "เพิ่มบุหรี่",
+      "ja": "たばこを追加",
+      "ko": "담배 추가",
+      "ru": "Добавить сигарету",
+      "es": "Añadir cigarrillo"
+    },
+    "修改煙款": {
+      "zh-Hant": "修改煙款",
+      "en": "Edit Cigarette",
+      "th": "แก้ไขบุหรี่",
+      "ja": "たばこを編集",
+      "ko": "담배 수정",
+      "ru": "Изменить сигарету",
+      "es": "Editar cigarrillo"
+    },
+    "新增訂煙者": {
+      "zh-Hant": "新增訂煙者",
+      "en": "Add Customer",
+      "th": "เพิ่มลูกค้า",
+      "ja": "顧客を追加",
+      "ko": "고객 추가",
+      "ru": "Добавить клиента",
+      "es": "Añadir cliente"
+    },
+    "修改訂煙者": {
+      "zh-Hant": "修改訂煙者",
+      "en": "Edit Customer",
+      "th": "แก้ไขลูกค้า",
+      "ja": "顧客を編集",
+      "ko": "고객 수정",
+      "ru": "Изменить клиента",
+      "es": "Editar cliente"
+    },
+    "新增賣煙者": {
+      "zh-Hant": "新增賣煙者",
+      "en": "Add Seller",
+      "th": "เพิ่มผู้ขาย",
+      "ja": "販売者を追加",
+      "ko": "판매자 추가",
+      "ru": "Добавить продавца",
+      "es": "Añadir vendedor"
+    },
+    "修改賣煙者": {
+      "zh-Hant": "修改賣煙者",
+      "en": "Edit Seller",
+      "th": "แก้ไขผู้ขาย",
+      "ja": "販売者を編集",
+      "ko": "판매자 수정",
+      "ru": "Изменить продавца",
+      "es": "Editar vendedor"
+    },
+    "新增訂煙 Order": {
+      "zh-Hant": "新增訂煙 Order",
+      "en": "Add Cigarette Order"
+    },
+    "修改訂煙 Order": {
+      "zh-Hant": "修改訂煙 Order",
+      "en": "Edit Cigarette Order"
+    },
+    "代碼：": {
+      "zh-Hant": "代碼：",
+      "en": "Code: "
+    },
+    "只接受圖片檔案。": {
+      "zh-Hant": "只接受圖片檔案。",
+      "en": "Only image files are accepted."
+    },
+    "未分類": {
+      "zh-Hant": "未分類",
+      "en": "Uncategorized"
+    },
+    "已複製到剪貼簿": {
+      "zh-Hant": "已複製到剪貼簿",
+      "en": "Copied to clipboard"
+    },
+    "請先選擇一張訂煙 Order": {
+      "zh-Hant": "請先選擇一張訂煙 Order",
+      "en": "Please select a cigarette order first"
+    },
+    "請先選擇賣煙者": {
+      "zh-Hant": "請先選擇賣煙者",
+      "en": "Please select a seller first"
+    },
+    "✏️ 修改煙款": {
+      "zh-Hant": "✏️ 修改煙款",
+      "en": "✏️ Edit Cigarette"
+    },
+    "➕ 新增煙款": {
+      "zh-Hant": "➕ 新增煙款",
+      "en": "➕ Add Cigarette"
+    },
+    "✏️ 修改訂煙者": {
+      "zh-Hant": "✏️ 修改訂煙者",
+      "en": "✏️ Edit Customer"
+    },
+    "➕ 新增訂煙者": {
+      "zh-Hant": "➕ 新增訂煙者",
+      "en": "➕ Add Customer"
+    },
+    "✏️ 修改賣煙者": {
+      "zh-Hant": "✏️ 修改賣煙者",
+      "en": "✏️ Edit Seller"
+    },
+    "➕ 新增賣煙者": {
+      "zh-Hant": "➕ 新增賣煙者",
+      "en": "➕ Add Seller"
+    },
+    "✏️ 修改訂煙 Order": {
+      "zh-Hant": "✏️ 修改訂煙 Order",
+      "en": "✏️ Edit Cigarette Order",
+      "th": "✏️ แก้ไขคำสั่งซื้อ",
+      "ja": "✏️ 注文を編集",
+      "ko": "✏️ 주문 수정",
+      "ru": "✏️ Изменить заказ",
+      "es": "✏️ Editar pedido"
+    },
+    "📝 新增訂煙 Order": {
+      "zh-Hant": "📝 新增訂煙 Order",
+      "en": "📝 Add Cigarette Order",
+      "th": "📝 เพิ่มคำสั่งซื้อ",
+      "ja": "📝 新しい注文",
+      "ko": "📝 새 주문",
+      "ru": "📝 Новый заказ",
+      "es": "📝 Nuevo pedido"
+    },
+    "🚬 食少支煙系統": {
+      "zh-Hant": "🚬 食少支煙系統",
+      "en": "🚬 Smoke Less System"
+    },
+    "管理Sellers、電話、Rating及Comment。": {
+      "zh-Hant": "管理Sellers、電話、Rating及Comment。",
+      "en": "Manage sellers, phone numbers, ratings and comments."
+    },
+    "🚬 Sellers": {
+      "zh-Hant": "🚬 Sellers",
+      "en": "🚬 Sellers"
+    },
+    "➕新增Cigarettes": {
+      "zh-Hant": "➕新增Cigarettes",
+      "en": "➕ Add Cigarettes"
+    },
+    "➕ 新增Cigarettes": {
+      "zh-Hant": "➕ 新增Cigarettes",
+      "en": "➕ Add Cigarettes"
+    },
+    "➕新增Customer": {
+      "zh-Hant": "➕新增Customer",
+      "en": "➕ Add Customer"
+    },
+    "➕ 新增Customer": {
+      "zh-Hant": "➕ 新增Customer",
+      "en": "➕ Add Customer"
+    },
+    "➕新增Sellers": {
+      "zh-Hant": "➕新增Sellers",
+      "en": "➕ Add Sellers"
+    },
+    "➕ 新增Sellers": {
+      "zh-Hant": "➕ 新增Sellers",
+      "en": "➕ Add Sellers"
+    },
+    "Copyright ©️洗錢多過賺錢既垃圾系統2026": {
+      "zh-Hant": "Copyright ©️洗錢多過賺錢既垃圾系統2026",
+      "en": "Copyright ©️A shitty system that launders more money than it earns 2026",
+      "th": "ลิขสิทธิ์ ©️ ระบบห่วยๆ ที่ฟอกเงินมากกว่าหาเงิน 2026",
+      "ja": "Copyright ©️ 稼ぐよりマネーロンダリングするクソシステム 2026",
+      "ko": "Copyright ©️ 돈 버는 것보다 돈세탁을 더 많이 하는 쓰레기 시스템 2026",
+      "ru": "Copyright ©️ Система-отстой, которая отмывает больше денег, чем зарабатывает, 2026",
+      "es": "Copyright ©️ Sistema basura que blanquea más dinero del que gana 2026"
+    },
+    "預設會按 Browser 語言自動切換；手動選擇後會記住此 Browser 的設定。": {
+      "zh-Hant": "預設會按 Browser 語言自動切換；手動選擇後會記住此 Browser 的設定。",
+      "en": "By default, the interface follows your browser language; after manual selection, the setting is remembered for this browser.",
+      "th": "ระบบจะเปลี่ยนตามภาษาของเบราว์เซอร์โดยอัตโนมัติ และจะจำภาษาที่เลือกไว้ในเบราว์เซอร์นี้",
+      "ja": "デフォルトではブラウザ言語に合わせて切り替わり、手動選択後はこのブラウザに保存されます。",
+      "ko": "기본적으로 브라우저 언어를 따르며 수동 선택 후 이 브라우저에 저장됩니다.",
+      "ru": "По умолчанию используется язык браузера; после ручного выбора настройка сохраняется в этом браузере.",
+      "es": "Por defecto se usa el idioma del navegador; tras elegirlo manualmente se guarda en este navegador."
+    },
+    "最後修改時間": {
+      "zh-Hant": "最後修改時間",
+      "en": "Last modified time",
+      "th": "เวลาที่แก้ไขล่าสุด",
+      "ja": "最終更新日時",
+      "ko": "마지막 수정 시간",
+      "ru": "Время последнего изменения",
+      "es": "Última modificación"
+    },
+    "最後修改時間：": {
+      "zh-Hant": "最後修改時間：",
+      "en": "Last modified time: ",
+      "th": "เวลาที่แก้ไขล่าสุด: ",
+      "ja": "最終更新日時: ",
+      "ko": "마지막 수정 시간: ",
+      "ru": "Время последнего изменения: ",
+      "es": "Última modificación: "
+    },
+    "完成": {
+      "zh-Hant": "完成",
+      "en": "Complete",
+      "th": "เสร็จสิ้น",
+      "ja": "完了",
+      "ko": "완료",
+      "ru": "Завершить",
+      "es": "Completar"
+    },
+    "再訂": {
+      "zh-Hant": "再訂",
+      "en": "Reorder",
+      "th": "สั่งซ้ำ",
+      "ja": "再注文",
+      "ko": "재주문",
+      "ru": "Повторить заказ",
+      "es": "Repetir pedido"
+    },
+    "下拉式顯示": {
+      "zh-Hant": "下拉式顯示",
+      "en": "Dropdown Display"
+    },
+    "全板式顯示": {
+      "zh-Hant": "全板式顯示",
+      "en": "Full Panel Display"
+    },
+    "登入頁面已失效，請重新整理頁面。": {
+      "zh-Hant": "登入頁面已失效，請重新整理頁面。",
+      "en": "登入頁面已失效，請重新整理頁面。",
+      "th": "หน้าล็อกอินหมดอายุ กรุณาโหลดหน้าใหม่",
+      "ja": "ログインページの有効期限が切れました。更新してください。",
+      "ko": "로그인 페이지가 만료되었습니다. 새로고침하세요.",
+      "ru": "Страница входа устарела. Обновите страницу.",
+      "es": "La página de inicio de sesión ha caducado. Actualiza la página."
+    },
+    "語言 / Language": {
+      "zh-Hant": "語言 / Language",
+      "en": "語言 / Language",
+      "th": "ภาษา / Language",
+      "ja": "言語 / Language",
+      "ko": "언어 / Language",
+      "ru": "Язык / Language",
+      "es": "Idioma / Language"
+    },
+    "Browser 自動": {
+      "zh-Hant": "Browser 自動",
+      "en": "Browser 自動",
+      "th": "อัตโนมัติตามเบราว์เซอร์",
+      "ja": "ブラウザ自動",
+      "ko": "브라우저 자동",
+      "ru": "Авто по браузеру",
+      "es": "Automático del navegador"
+    },
+    "繁體中文": {
+      "zh-Hant": "繁體中文",
+      "en": "繁體中文",
+      "th": "ภาษาจีนตัวเต็ม",
+      "ja": "繁体中国語",
+      "ko": "번체 중국어",
+      "ru": "Традиционный китайский",
+      "es": "Chino tradicional"
+    },
+    "目前語言：": {
+      "zh-Hant": "目前語言：",
+      "en": "目前語言：",
+      "th": "ภาษาปัจจุบัน: ",
+      "ja": "現在の言語: ",
+      "ko": "현재 언어: ",
+      "ru": "Текущий язык: ",
+      "es": "Idioma actual: "
+    },
+    "輸出落單頁面。": {
+      "zh-Hant": "輸出落單頁面。",
+      "en": "輸出落單頁面。",
+      "th": "ส่งออกหน้าสั่งซื้อ",
+      "ja": "注文ページを出力します。",
+      "ko": "주문 페이지를 출력합니다.",
+      "ru": "Открыть страницу заказа.",
+      "es": "Mostrar página de pedido."
+    },
+    "完了": {
+      "zh-Hant": "完了",
+      "en": "完了",
+      "th": "เสร็จสิ้น",
+      "ja": "完了",
+      "ko": "완료",
+      "ru": "Готово",
+      "es": "Completado"
+    },
+    "再注文": {
+      "zh-Hant": "再注文",
+      "en": "再注文",
+      "th": "สั่งซื้ออีกครั้ง",
+      "ja": "再注文",
+      "ko": "재주문",
+      "ru": "Повторить заказ",
+      "es": "Volver a pedir"
+    },
+    "主題和特效模式": {
+      "zh-Hant": "主題和特效模式",
+      "en": "主題和特效模式",
+      "th": "โหมดธีมและเอฟเฟกต์",
+      "ja": "テーマとエフェクト",
+      "ko": "테마 및 효과 모드",
+      "ru": "Режим тем и эффектов",
+      "es": "Modo de temas y efectos"
+    },
+    "日間和夜間模式": {
+      "zh-Hant": "日間和夜間模式",
+      "en": "日間和夜間模式",
+      "th": "โหมดกลางวันและกลางคืน",
+      "ja": "昼夜モード",
+      "ko": "주간 및 야간 모드",
+      "ru": "Дневной и ночной режим",
+      "es": "Modo día y noche"
+    },
+    "💀 墨西哥亡靈節主題": {
+      "zh-Hant": "💀 墨西哥亡靈節主題",
+      "en": "💀 墨西哥亡靈節主題",
+      "th": "💀 ธีมวันแห่งความตายเม็กซิโก",
+      "ja": "💀 メキシコ死者の日テーマ",
+      "ko": "💀 멕시코 망자의 날 테마",
+      "ru": "💀 Тема мексиканского Дня мёртвых",
+      "es": "💀 Tema del Día de Muertos"
+    },
+    "💃 Disco 主題": {
+      "zh-Hant": "💃 Disco 主題",
+      "en": "💃 Disco 主題",
+      "th": "💃 ธีมดิสโก้",
+      "ja": "💃 ディスコテーマ",
+      "ko": "💃 디스코 테마",
+      "ru": "💃 Диско-тема",
+      "es": "💃 Tema disco"
+    },
+    "🍎 MacOS 主題": {
+      "zh-Hant": "🍎 MacOS 主題",
+      "en": "🍎 MacOS 主題",
+      "th": "🍎 ธีม MacOS",
+      "ja": "🍎 macOSテーマ",
+      "ko": "🍎 macOS 테마",
+      "ru": "🍎 Тема macOS",
+      "es": "🍎 Tema macOS"
+    },
+    "🐱 可愛貓狗花草主題": {
+      "zh-Hant": "🐱 可愛貓狗花草主題",
+      "en": "🐱 可愛貓狗花草主題",
+      "th": "🐱 ธีมแมวหมาน่ารักและดอกไม้",
+      "ja": "🐱 かわいい猫犬と花のテーマ",
+      "ko": "🐱 귀여운 고양이 강아지 꽃 테마",
+      "ru": "🐱 Тема милых котиков, собак и цветов",
+      "es": "🐱 Tema de gatos, perros y flores"
+    },
+    "Browser 自動偵測": {
+      "zh-Hant": "Browser 自動偵測",
+      "en": "Browser 自動偵測",
+      "th": "ตรวจจับอัตโนมัติจากเบราว์เซอร์",
+      "ja": "ブラウザ自動検出",
+      "ko": "브라우저 자동 감지",
+      "ru": "Автоопределение браузера",
+      "es": "Detección automática del navegador"
+    },
+    "💎 Liquid Glass 主題": {
+      "zh-Hant": "💎 Liquid Glass 主題",
+      "en": "💎 Liquid Glass 主題",
+      "th": "💎 ธีม Liquid Glass",
+      "ja": "💎 Liquid Glassテーマ",
+      "ko": "💎 Liquid Glass 테마",
+      "ru": "💎 Тема Liquid Glass",
+      "es": "💎 Tema Liquid Glass"
+    },
+    "訂單號碼": {
+      "zh-Hant": "訂單號碼",
+      "en": "Order No."
+    },
+    "合共金額": {
+      "zh-Hant": "合共金額",
+      "en": "Total amount"
+    },
+    "全部": {
+      "zh-Hant": "全部",
+      "en": "All"
+    },
+    "未完成": {
+      "zh-Hant": "未完成",
+      "en": "Incomplete"
+    }
+  },
+  "display_mode": "dropdown",
+  "ui_text_version": 5,
+  "theme": "dayofdead"
+}

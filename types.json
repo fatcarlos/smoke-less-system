@@ -1,0 +1,182 @@
+[
+  {
+    "id": "4c89ea7b86174d2c82352690e919a6c6",
+    "brand": "萬事發",
+    "name": "e系列藍莓5號",
+    "price": "450",
+    "code": "1440",
+    "image": "Mevius_bb_5.jpg",
+    "created_at": "2026-10-05 19:09:50"
+  },
+  {
+    "id": "a8239158e20544c48f627c51a6bd69ae",
+    "brand": "萬事發",
+    "name": "e系列冰暴5號",
+    "price": "410",
+    "code": "1965",
+    "image": "Mevius_ms_5.jpeg",
+    "created_at": "2026-10-05 19:19:56"
+  },
+  {
+    "id": "8d8f266a3c8445e0a5a05deaa6f715f8",
+    "brand": "萬事發",
+    "name": "e系列冰暴8號",
+    "price": "410",
+    "code": "1964",
+    "image": "Mevius_ms_8.jpg",
+    "created_at": "2026-10-05 19:22:38"
+  },
+  {
+    "id": "c6c9a511088b444fadb9f49020bb94e9",
+    "brand": "萬事發",
+    "name": "青提5號",
+    "price": "410",
+    "code": "",
+    "image": "Mevius_ct_5.png",
+    "created_at": "2026-10-05 19:26:17"
+  },
+  {
+    "id": "1ee9e23dfb284d27898c241b46c92f88",
+    "brand": "萬寶路",
+    "name": "黑冰5號",
+    "price": "450",
+    "code": "4281",
+    "image": "Marlboro-blackice5mg.jpg",
+    "created_at": "2026-10-05 23:20:50"
+  },
+  {
+    "id": "1a92ac0dd01e4ac9b1e7bdcdf0008fb2",
+    "brand": "萬寶路",
+    "name": "熱情果薄荷8號",
+    "price": "450",
+    "code": "2389",
+    "image": "marlboro-vista-tropical-splash-8mg.jpg",
+    "created_at": "2026-10-05 23:22:56"
+  },
+  {
+    "id": "35e8751b20694504a44e6fea114cb392",
+    "brand": "萬寶路",
+    "name": "冰涼薄荷5號",
+    "price": "450",
+    "code": "4349",
+    "image": "Marlboro-薄荷雙爆珠5mg.jpg",
+    "created_at": "2026-10-05 23:25:02"
+  },
+  {
+    "id": "de5036397a1544aba93ed6509bfdccfc",
+    "brand": "Lucky Strike",
+    "name": "藍莓5號",
+    "price": "410",
+    "code": "3058",
+    "image": "Lucky-Strike好彩香煙藍莓爆珠5mg.jpg",
+    "created_at": "2026-10-05 23:27:42"
+  },
+  {
+    "id": "edfd43bd979743729c406350cf75a243",
+    "brand": "Lucky Strike",
+    "name": "特醇薄荷5號",
+    "price": "410",
+    "code": "3787",
+    "image": "lucky-strike-black-series-menthol-5.jpg",
+    "created_at": "2026-10-05 23:29:20"
+  },
+  {
+    "id": "839e5ca9d5de41ddb3426a5b15df1aaa",
+    "brand": "supa sawa",
+    "name": "西柚5號",
+    "price": "410",
+    "code": "2545",
+    "image": "supa-sawa-blackjack-grapefruit-5-jp-001.jpg",
+    "created_at": "2026-10-05 23:32:05"
+  },
+  {
+    "id": "92e531aa8fe440ce9a691e17f4c09e07",
+    "brand": "supa sawa",
+    "name": "檸檬5號",
+    "price": "410",
+    "code": "2548",
+    "image": "supa-sawa-lemon-5mg.png",
+    "created_at": "2026-10-05 23:33:35"
+  },
+  {
+    "id": "ca1ddb8a46ed4609839f82c11214f5f9",
+    "brand": "supa sawa",
+    "name": "檸檬8號",
+    "price": "410",
+    "code": "2384",
+    "image": "supa-sawa-lemon-8mg.jpg",
+    "created_at": "2026-10-05 23:34:43"
+  },
+  {
+    "id": "e195ddfe5fc34cdc851ee9df7520967b",
+    "brand": "supa sawa",
+    "name": "BOHEM mojito No6",
+    "price": "410",
+    "code": "4243",
+    "image": "supa-sawa-bohem-cigar-mojito-no-6.jpg",
+    "created_at": "2026-10-05 23:36:44"
+  },
+  {
+    "id": "9725fad22ca44164be0ed7b59e717d4c",
+    "brand": "supa sawa",
+    "name": "BOHEM 雪茄 No6",
+    "price": "450",
+    "code": "4137",
+    "image": "BOHEM寶亨雪茄6號香煙6mg.jpg",
+    "created_at": "2026-10-05 23:38:10"
+  },
+  {
+    "id": "def41d652f7548ef87a2bd72a00c27e2",
+    "brand": "KOOL",
+    "name": "北海道薄荷8號",
+    "price": "450",
+    "code": "3154",
+    "image": "KOOL-北海道薄荷8.jpg",
+    "created_at": "2026-10-05 23:41:08"
+  },
+  {
+    "id": "b3cbe01904a54de7862440dc47dd9f86",
+    "brand": "KOOL",
+    "name": "北海道薄荷莓果5號",
+    "price": "450",
+    "code": "3152",
+    "image": "北海道薄荷莓果5-1.jpg",
+    "created_at": "2026-10-05 23:44:18"
+  },
+  {
+    "id": "542f76a8b98b4959952a364109ee5ecd",
+    "brand": "KOOL",
+    "name": "Looped 雪茄",
+    "price": "450",
+    "code": "3785",
+    "image": "kool-looped-cigar.jpg",
+    "created_at": "2026-10-05 23:45:25"
+  },
+  {
+    "id": "c4363af2bcbf4163a6b8c6953f418aa6",
+    "brand": "萬事發",
+    "name": "藍莓5號",
+    "price": "440",
+    "code": "",
+    "image": "Mevius_bb_5.jpg",
+    "created_at": "2026-10-22 07:49:42"
+  },
+  {
+    "id": "884ad765efc446078360c3b271213863",
+    "brand": "supa sawa",
+    "name": "Random5號",
+    "price": "490",
+    "code": "",
+    "image": "supasawa-Random-5.jpg",
+    "created_at": "2026-10-22 07:52:20"
+  },
+  {
+    "id": "b7f50f09e8314e63b169648a73aa69cf",
+    "brand": "萬寶路",
+    "name": "櫻花5號",
+    "price": "440",
+    "code": "",
+    "image": "Marlboro櫻花5號.webp",
+    "created_at": "2026-10-22 07:53:45"
+  }
+]
