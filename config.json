@@ -1,7 +1,7 @@
 {
   "username": "smoker",
-  "password": "smokekills",
-  "admin_password": "smokekills",
+  "password": "smoker",
+  "admin_password": "admin",
   "background": {
     "type": "image",
     "value": "MarlboroWorld.jpeg",
@@ -10,7 +10,7 @@
   "dark_mode": false,
   "totp": {
     "enabled": false,
-    "secret": "H6FGOBHMLKGU3GLHEFVRC6IK4FSUXXF4"
+    "secret": ""
   },
   "transparency": 100,
   "language": "zh-Hant",
